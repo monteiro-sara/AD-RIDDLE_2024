@@ -7,5 +7,3 @@ The project focused on **Alzheimer’s disease blood-based biomarkers**, particu
 AD-RIDDLE develops and validates tools for risk assessment, early diagnosis, prevention, and treatment of Alzheimer’s disease across real-world clinical settings.
 
 **Project website:** https://ad-riddle.org/
-
-<p align="left"> <img src="assets/ADRIDDLE-logo.jpg" alt="AD-RIDDLE logo" width="500"> </p>
