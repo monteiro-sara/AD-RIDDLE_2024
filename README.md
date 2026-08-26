@@ -8,4 +8,4 @@ AD-RIDDLE develops and validates tools for risk assessment, early diagnosis, pre
 
 **Project website:** https://ad-riddle.org/
 
-<p align="center"> <img src="assets/ADRIDDLE-logo.jpg" alt="AD-RIDDLE logo" width="500"> </p>
+<p align="left"> <img src="assets/ADRIDDLE-logo.jpg" alt="AD-RIDDLE logo" width="500"> </p>
